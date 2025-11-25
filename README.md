@@ -68,6 +68,9 @@ This will start a local server, and the dashboard can be accessed in your web br
 ## Dataset Information
 The application uses `chat_conversations_dataset.csv`, which contains anonymized customer chat conversations, customer ratings, issue descriptions, and other metadata to support analysis and insights.
 
+## Live Demo:
+https://customer-chat-and-sentiment-analysis-dashboard-28fyfrcstspagto.streamlit.app/
+
 ## Developer / Team
 Developed by Akshat Kapoor  
 © 2025
