@@ -7,3 +7,4 @@ numpy
 sentencepiece
 matplotlib
 transformers
+torch
