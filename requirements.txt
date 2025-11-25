@@ -1,8 +1,7 @@
 streamlit
-transformers==4.38.0
-torch==2.1.0+cpu
-sentencepiece
+huggingface-hub
+onnxruntime
+scikit-learn
 pandas
 numpy
-scikit-learn
---extra-index-url https://download.pytorch.org/whl/cpu
+sentencepiece
