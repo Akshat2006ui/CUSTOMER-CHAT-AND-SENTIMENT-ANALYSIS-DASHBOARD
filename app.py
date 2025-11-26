@@ -141,7 +141,7 @@ def main():
 
     # Footer
     st.sidebar.markdown("---")
-    st.sidebar.markdown("Developed by Akshat Kapoor")
+    st.sidebar.markdown("Developed by Chat Analysis Team")
     st.sidebar.markdown("© 2025")
 
 
