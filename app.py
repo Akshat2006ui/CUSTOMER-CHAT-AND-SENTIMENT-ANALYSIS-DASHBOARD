@@ -33,7 +33,7 @@ def main():
             """
         )
 
-        input_method = st.radio("Input Method", ("Select from dataset")
+        input_method = st.radio("Input Method", ("Select from dataset"))
 
         conversation_text = None
 
